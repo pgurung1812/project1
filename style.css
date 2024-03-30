@@ -1,0 +1,129 @@
+
+.maincontainer{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+.box1{
+    /* border: 2px solid red; */
+    height: 500px;
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+    justify-content: center;
+}
+.box2{
+    /* border: 2px solid red; */
+    height: 300px;
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box3{
+    /* border: 2px solid red; */
+    height: 300px;
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+.box4{
+    /* border: 2px solid red; */
+    height: 300px;
+    width: 900px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+
+}
+.box5{
+    /* border: 2px solid red; */
+    height: 100px;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1-1{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 70px;
+    padding-right: 50px;
+  
+    
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    
+}
+li{
+    list-style: none;
+}
+.box1-2{
+    display: flex;
+    justify-content: space-around;
+   
+    padding-bottom: 50px;
+   
+}
+.box1-2-1 h4{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+.box1-2-1 p,.box1-1 li{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.box1-1 h3{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+button{
+   background-color: #3882F6;
+   height: 30px;
+   width: 80px;
+   border: 2px solid white;
+   color: white;
+   
+}
+
+.box2-1{
+    display: flex;
+    width:400px;
+    justify-content: space-around;
+}
+.name{
+    display: flex;
+    padding-left: 150px;
+}
+.box2 p{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+.box3 p{
+    font-size: 36px;
+    color: #1F2937;
+}
+.image{
+    padding-top: 50px;
+}
+/* .box1-2-1{
+    height: 450px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+} */
